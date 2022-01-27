@@ -3,3 +3,8 @@ version: '${project.version}'
 main: com.github.ukraine1449.home.Home
 api-version: 1.18
 authors: [ Ukraine1449 ]
+commands:
+  home:
+    description: go home
+  sethome:
+    description: set your home
